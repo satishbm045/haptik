@@ -1,6 +1,8 @@
 
 This is simple Friends listing project implemented in React, Redux, and Javascript
 
+its has some dummy Data for friends List.
+
 ![image](https://user-images.githubusercontent.com/26067978/160349649-b6741be6-3bf4-4ffd-bcd6-c83dae4ccdd0.png)
 
 
