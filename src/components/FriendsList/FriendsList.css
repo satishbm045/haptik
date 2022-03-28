@@ -1,0 +1,28 @@
+.headingRow{
+	color: #000066;
+	background: rgb(224, 233, 240);
+}
+.star{
+    display: flex;
+    padding: 0px 10px;
+}
+.sortImag{
+	padding: 0px 5px;
+    height: 18px;
+    width: 18px;
+    margin-top: 3px;
+}
+.paginationButton{
+	padding: 5px 20px;
+	cursor: pointer;
+	color: #000066;
+}
+.paginationButton:hover{
+	color: #000;
+}
+.right{
+    float: right;
+}
+.left{
+	float: left;
+}

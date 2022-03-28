@@ -1,0 +1,14 @@
+.inputBox {
+	width: 100%;
+}
+.input {
+	width: 99%;
+	padding: 20px 0px;
+}
+.toastMsg{
+	position: absolute;
+    background: #000066;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 25px;
+}

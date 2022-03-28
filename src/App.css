@@ -1,0 +1,12 @@
+.continer{
+  margin: 0 auto;
+  max-width: 400px;
+  border: 1px solid #000066;
+}
+.heading{
+  color: #fff;
+  background-color: #000066;
+  font-size: 24px;
+  padding: 10px;
+  text-align: center;
+}

@@ -1,0 +1,28 @@
+.friendBox{
+	display: flex;
+	align-items: center;
+	border-top: 1px solid #000066;
+}
+.name{
+	width: 60%;
+	padding: 20px;
+}
+.spanText{
+	color: #aaa;
+	font-size: 16px;
+}
+.star{
+	width: 20%;
+	cursor: pointer;
+    display: flex;
+    padding: 0px 10px;
+}
+.delete{
+	width: 20%;
+	cursor: pointer;
+}
+.img{
+	height: 20px;
+	padding: 10px;
+	border: 1px solid #e5e5e5;
+}
